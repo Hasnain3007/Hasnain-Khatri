@@ -1,7 +1,7 @@
 * {
     padding: 0;
     margin: 0;
-    /* border: 1px solid red; */
+    border: 1px solid red;
     font-family: "Montserrat", sans-serif;
 }
 
@@ -14,7 +14,7 @@ header {
 /* navbar start from Here  */
 
 nav {
-    width: 1200px;
+    width: 90%;
     height: 91px;
     margin: auto;
     color: white;
